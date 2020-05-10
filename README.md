@@ -1,2 +1,2 @@
 # test-git
-on test les fonctionnalisées de git hub
+on test les fonctionnaliées de git hub et ca se passe bien !
